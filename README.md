@@ -1,2 +1,2 @@
 # 0xRecommend
-Basic recommendation engine implementation in nodejs
+A machine learning course recommendation engine implementation in Nodejs using TensorFlow.js
